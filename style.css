@@ -1,3 +1,10 @@
 body{
     font-family: 'Merriweather', serif;
+
 }
+.banner{
+     padding: 50px 140px;
+
+}
+#one{text-align: center;
+text-weight: 500px}
